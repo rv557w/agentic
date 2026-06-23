@@ -1,7 +1,0 @@
-.env
-.next/
-node_modules/
-tmp/
-out/
-dist/
-*.log
